@@ -1,0 +1,267 @@
+{
+   "navbar": {
+      "logo": "/logo.svg",
+      "leftnavlinks": [
+         { "label": "Home", "path": "/" },
+         { "label": "About", "path": "/about" },
+         { "label": "Stock Market Training", "path": "/stock-market-training" }
+      ],
+      "rightnavlinks": [
+         { "label": "Compounded Portfolio", "path": "/compounded-portfolio" },
+         { "label": "Life @ Goolluck", "path": "/life-at-goolluck" },
+         { "label": "Contact", "path": "/contact" }
+      ]
+   },
+
+   "homeService": {
+      "heading": "Our Services",
+      "services": [
+         {
+            "label": "Comprehensive Financial Services",
+            "desc": "GOOLLUCK INVESTMENTS serves as your reliable and comprehensive financial service provider. We understand the importance of your financial goals and strive to offer tailored solutions. With years of industry experience, we are committed to assisting individuals and businesses in achieving financial success."
+         },
+         {
+            "label": "Leading Financial Training Institute",
+            "desc": "As a leading financial training institute, we are dedicated to empowering individuals and professionals. Our focus is on providing knowledge and skills essential for excelling in the dynamic world of finance. Through a commitment to excellence, innovation, and a passion for education."
+         }
+      ]
+   },
+
+   "testimonials": {
+      "title": "Testimonials",
+      "leftReviews": [
+         {
+            "name": "Jack",
+            "username": "@jack",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jill",
+            "username": "@jill",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "John",
+            "username": "@john",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jane",
+            "username": "@jane",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jenny",
+            "username": "@jenny",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "James",
+            "username": "@james",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         }
+      ],
+
+      "rightReviews": [
+         {
+            "name": "Jack",
+            "username": "@jack",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jill",
+            "username": "@jill",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "John",
+            "username": "@john",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jane",
+            "username": "@jane",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "Jenny",
+            "username": "@jenny",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         },
+         {
+            "name": "James",
+            "username": "@james",
+            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "img": "/testimonial.png"
+         }
+      ]
+   },
+
+   "about": {
+      "heading": "Our Company",
+      "aboutCompany": "Goolluck Investments is a portfolio advisory firm and stock market training institute. Here, you will learn about real time trading and strategies used by the traders of our institution. Learn directly from trader. Come & learn directly from traders.",
+      "imageUrl": "/corporate.png",
+      "teamHeading": "Meet Our Team",
+      "teamHeadTitle": "Rohit Mongia",
+      "desc": "Possesses over 20+ years of Stock Market Investing Experience. 19 Times winner of CNBC Bulls Eye Contest (Best Portfolio Manager Contest in the Country). Derivatives Expert with Zee Business Live News Channel. Equity Expert with Investor India Magzine. Former Trainer at State Street Corp US for Hedge fund Training. Ex-National Head for Stock Broking Arm of Bajaj Capital.",
+      "teamHeadImageUrl": "/team/rohit.webp",
+      "team": [
+         {
+            "name": "Jaya Srivastava",
+            "desc": "Seasoned professional with 10+ years of work experience in stock broking firm. MBA finance Stock market enthusiasts, expertise on managing and advising on wealth creation. Believes in nurturing the long term financial relationship",
+            "imageUrl": "/team/jaya.webp"
+         },
+         {
+            "name": "Bharti",
+            "desc": "MBA in Finance, 9+ years of experience in Stock Market. Transparency, integrity, and open communication define my client relationships, Let's work together to turn your financial aspirations into a reality.",
+            "imageUrl": "/team/bharti.webp"
+         },
+         {
+            "name": "Mansi",
+            "desc": "Bcom (Hons.), MBA in finance, 5+ years of experience in the stock market, BSE certified in Financial Market course, I am committed to helping you achieve your unique financial goals and dreams, My mission is to simplify complex financial charts and make them work for you",
+            "imageUrl": "/team/mansi.webp"
+         },
+         {
+            "name": "Yash Madan",
+            "desc": "Mathematics major with 4+ years experience in financial markets, Focused on designing investment strategies that minimises the risk of markets, Keeping the investments safe is the top priority, Let me help you create a portfolio that lets you retire early.",
+            "imageUrl": "/team/yash_madan.webp"
+         },
+         {
+            "name": "Vidhi",
+            "desc": "B.SC(H) Mathematics, 2+ Year Experience in Stock Market, My mission is to craft personalized financial strategies for your unique journey to prosperity. Beyond advice, we offer a roadmap to financial freedom and confidence",
+            "imageUrl": "/team/vidhi.webp"
+         },
+         {
+            "name": "Deepti khatri",
+            "desc": "Rooted in multi faceted experience, I prioritise investments to enrich lives and secure futures. The right relationship is everything-with finances & people.",
+            "imageUrl": "/team/deepti.webp"
+         },
+         {
+            "name": "Deepti Attreja",
+            "desc": "M.Com, MBA in finance, Diverse 8+ years of experience in financial sector, I stay at the forefront of industry trends, ensuring your financial plan adapts to the ever-changing market, Your financial well-being is my priority; let's work together to secure your future.",
+            "imageUrl": "/team/deepti_attreja.webp"
+         },
+         {
+            "name": "Ritu Rai",
+            "desc": "Join a community of empowered individuals who are transforming their financial lives under my guidance. Every financial decision you make is a building block toward your dreams; let's build together, Contact me today for a consultation, and let's embark on a journey to financial prosperity.",
+            "imageUrl": "/team/ritu.webp"
+         },
+         {
+            "name": "Palak",
+            "desc": "BBA and PGDM in finance, 2+ years of experience in Stock Market, Transparency is at the core of my client relationships, ensuring you are informed every step of the way. As your financial ally, I am committed to turning your financial goals into achievable milestones.",
+            "imageUrl": "/team/palak.webp"
+         }
+      ]
+   },
+
+   "previousTraining": {
+      "title": "Previous Training Sessions",
+      "iit": [
+         { "photo": "/sessions/iit/iit1.JPEG" },
+         { "photo": "/sessions/iit/iit2.JPEG" },
+         { "photo": "/sessions/iit/iit3.JPEG" },
+         { "photo": "/sessions/iit/iit4.JPEG" }
+      ],
+      "mdi": [
+         { "photo": "/sessions/mdi/mdi1.jpg" },
+         { "photo": "/sessions/mdi/mdi2.jpg" },
+         { "photo": "/sessions/mdi/mdi3.jpg" },
+         { "photo": "/sessions/mdi/mdi4.jpg" },
+         { "photo": "/sessions/mdi/mdi6.jpg" },
+         { "photo": "/sessions/mdi/mdi7.JPG" },
+         { "photo": "/sessions/mdi/mdi8.JPG" },
+         { "photo": "/sessions/mdi/mdi9.JPG" },
+         { "photo": "/sessions/mdi/mdi10.JPG" },
+         { "photo": "/sessions/mdi/mdi11.JPG" },
+         { "photo": "/sessions/mdi/mdi12.JPG" }
+      ],
+      "hansraj": [
+         {
+            "photo": "/sessions/hansraj/hansraj1.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj2.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj3.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj4.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj5.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj6.JPEG"
+         },
+         {
+            "photo": "/sessions/hansraj/hansraj7.JPEG"
+         },
+         { "photo": "/sessions/hansraj/hansraj8.JPEG" }
+      ]
+   },
+
+   "gallery": {
+      "title": "Life at Goolluck",
+      "photos": [
+         {
+            "photo": "/life/31.jpeg",
+            "description": "First CSR Activity, 2024"
+         },
+         { "photo": "/life/29.jpeg", "description": "MOBIC - 2024" },
+         { "photo": "/life/30.jpeg", "description": "MOBIC - 2024" },
+         { "photo": "/life/32.jpeg", "description": "MD & CEO, MOFSL" },
+         { "photo": "/life/13.jpeg", "description": "With Motilal Oswal Sir" },
+         {
+            "photo": "/life/24.jpeg",
+            "description": "MOBIC - 2023, with Motilal Oswal Sir"
+         },
+         { "photo": "/life/17.jpeg", "description": "MOBIC - 2023" },
+         {
+            "photo": "/life/19.jpeg",
+            "description": "Nomiated for MOBIC - 2023"
+         },
+         {
+            "photo": "/life/26.jpeg",
+            "description": "Nomiated for MOBIC - 2023"
+         },
+         { "photo": "/life/20.jpeg", "description": "MOBIC - 2023" },
+
+         { "photo": "/life/1.jpeg", "description": "Dowtown, Gurgaon" },
+         {
+            "photo": "/life/2.jpeg",
+            "description": "Goolluck Office, Star Tower"
+         },
+         { "photo": "/life/5.jpeg", "description": "Goa Trip, 2023" },
+         { "photo": "/life/6.jpeg", "description": "Goa Trip, 2023" },
+         { "photo": "/life/11.jpeg", "description": "Diwali, 2023" },
+         { "photo": "/life/12.jpeg", "description": "Goa Trip, 2023" },
+         { "photo": "/life/14.jpeg", "description": "Goa Trip, 2023" },
+         { "photo": "/life/16.jpeg", "description": "Goa Trip, 2023" },
+
+         { "photo": "/life/3.jpeg", "description": "Jaipur Trip, 2022" },
+         { "photo": "/life/4.jpeg", "description": "Diwali, 2022" },
+
+         { "photo": "/life/15.jpeg", "description": "Team Outing" },
+         { "photo": "/life/18.jpeg", "description": "Birthday Celebration" },
+         { "photo": "/life/7.jpeg", "description": "Birthday Celebration" },
+
+         { "photo": "/life/9.jpeg", "description": "Birthday Celebration" },
+         { "photo": "/life/10.jpeg", "description": "Birthday Celebration" },
+
+         { "photo": "/life/21.jpeg", "description": "Birthday Celebration" },
+         { "photo": "/life/22.jpeg", "description": "Birthday Celebration" }
+      ]
+   }
+}
