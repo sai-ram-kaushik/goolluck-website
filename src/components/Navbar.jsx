@@ -12,35 +12,42 @@ const Navbar = ({ navbar }) => {
    };
 
    return (
-      <div className="w-full p-5 flex items-center justify-center">
-         <div className="bg-primary rounded-3xl w-full md:w-[1240px] text-background p-4">
-            <div className="flex items-center justify-between w-full">
-               {/* Left navigation links (visible on desktop) */}
-               <div className="hidden md:flex items-center flex-grow justify-start gap-8">
-                  {leftnavlinks.map((leftlink, index) => (
-                     <ul
-                        key={index}
-                        className={`flex items-center font-bold text-lg ${
-                           location.pathname === leftlink.path
-                              ? "text-background p-2 bg-secondary rounded-xl"
-                              : "text-background/60"
-                        }`}
-                     >
-                        <Link to={leftlink.path}>
-                           <li>{leftlink.label}</li>
-                        </Link>
-                     </ul>
-                  ))}
+      <div className="w-full p-5 flex items-center justify-center ">
+         <div className="bg-primary rounded-3xl w-full  text-background p-4">
+            <div className="flex items-center justify-center w-full">
+               {/* extreme left based logo */}
+               <div className="flex justify-start">
+                  <Link to="/" className="flex items-center">
+                     <img
+                        src="/logo_white.svg"
+                        width={380}
+                        alt="Logo"
+                        className="ml-4"
+                     />
+                  </Link>
                </div>
 
-               {/* Center title */}
+               {/* Left navigation links  */}
+               <div className="hidden md:flex items-center justify-center ml-8 flex-grow gap-12">
+                  {leftnavlinks.map((leftlink, index) => (
+                       <ul
+                    key={index}
+                   className={`flex items-center font-bold text-lg ${
+                      location.pathname === leftlink.path
+                     ? "text-background p-2 bg-secondary rounded-xl"
+                       : "text-background/60"
+                     }`}
+                        >
+                     <Link to={leftlink.path}>
+                     <li>{leftlink.label}</li>
+                      </Link>
+                       </ul>
+                       ))}
+                     </div>
 
-               <Link to="/">
-                  <img src="/logo_white.svg" width={250} />
-               </Link>
 
-               {/* Right navigation links (visible on desktop) */}
-               <div className="hidden md:flex items-center flex-grow justify-end gap-8">
+               {/* Right navigation links (desktop) */}
+               <div className="hidden md:flex items-center ml-auto mr-12 gap-9">
                   {rightnavlinks.map((rightlink, index) => (
                      <ul
                         key={index}

@@ -9,6 +9,7 @@ import StockMarketTraining from "./pages/StockMarketTraining";
 import CompoundedPortfolio from "./pages/CompoundedPortfolio";
 import LifeAtGoolluck from "./pages/LifeAtGoolluck";
 import SingleCoursePage from "./pages/SingleCoursePage";
+import CourseDetails from "./pages/CourseDetails";
 
 const App = () => {
    const { id } = useParams();
@@ -26,6 +27,8 @@ const App = () => {
                      <StockMarketTraining training={data.previousTraining} />
                   }
                />
+
+               <Route path="/courses/:courseName" element={<CourseDetails />} />
                <Route
                   path="/compounded-portfolio"
                   element={<CompoundedPortfolio />}
