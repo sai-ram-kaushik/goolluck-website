@@ -14,7 +14,7 @@ const Home = () => {
                   <h2 className="animate__animated animate__fadeInUp md:text-center text-[40px] md:text-[95px] font-bold leading-[3rem] md:leading-[6.5rem]">
                      Goolluck <span>Investments</span>
                   </h2>
-                  <p className="max-w-[900px] text-start md:text-center animate__animated animate__fadeInUp">
+                  <p className="max-w-[900px] text-start md:text-center animate__animated animate__fadeInUp text-xl font-serif mb-4">
                      Goolluck Investments is a portfolio advisory firm and stock
                      market training institute. Here, you will learn about real
                      time trading and strategies used by the traders of our
@@ -22,7 +22,8 @@ const Home = () => {
                      directly from traders.
                   </p>
                   <Link to="/stock-market-training">
-                     <Button children="Get Started !!" />
+                  
+                     <Button className="bg-gradient-to-r from-orange-500 to-orange-600 text-white hover:from-orange-600 hover:to-orange-700 hover:text-white" children="Get Started !!" />
                   </Link>
                </div>
             </div>

@@ -2,7 +2,7 @@
    "navbar": {
       "logo": "/logo.svg",
       "leftnavlinks": [
-         { "label": "Home", "path": "/" },
+         { "label": "Knowledge Center", "path": "/" },
          { "label": "About", "path": "/about" },
          { "label": "Stock Market Training", "path": "/stock-market-training" }
       ],
@@ -31,39 +31,39 @@
       "title": "Testimonials",
       "leftReviews": [
          {
-            "name": "Jack",
-            "username": "@jack",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Mehar",
+            "username": "@mehak",
+            "body": "Live market sessions with real-life lessons.An amazing experience overall. I am using the strategies Taught, so far consistent Profits in the last 8 months, small losses but get managed with strategies.",
             "img": "/testimonial.png"
          },
          {
-            "name": "Jill",
-            "username": "@jill",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Kunj",
+            "username": "@IamKunj",
+            "body": " Highly professional and experienced people, greatly knowledged about financial markets & trading.",
             "img": "/testimonial.png"
          },
          {
-            "name": "John",
-            "username": "@john",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Varun ",
+            "username": "@Varun Srivastava",
+            "body": "I recently completed a stock market coaching program and it was transformative. The coach provided in-depth insights into market trends and strategies tailored to my experience level. Their hands-on approach and real-time market analysis greatly boosted my confidence and skills. I appreciate the personalized attention and the supportive community of fellow learners. Highly recommend for anyone looking to enhance their trading knowledge and skills!",
             "img": "/testimonial.png"
          },
          {
-            "name": "Jane",
-            "username": "@jane",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Palak",
+            "username": "@palak",
+            "body": "  My interest in Stock Market was first came from my father after that i was taking classes from Rohit sir i have decided to make my carrier in this field.I am highly recommended the Goolluck investment as they taught 75%of practical knowledge through which we can see live market snerio.They have unique strategies taught for stock picking based on tried and tested experiences and the taught the best way to handle the portfolio with higher returns and lower risk….",
             "img": "/testimonial.png"
          },
          {
-            "name": "Jenny",
-            "username": "@jenny",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Deepti",
+            "username": "@Deepti Khatri",
+            "body": " One of a kind institute, with an unusual way of developing financial wisdom. It does not just focus on the micros of trading but equally stresses on the macros of investments and wealth building. There is a personalised approach towards what works best for ones goals. The trainings are quite hands on and very quickly you hit the ground running while learning along the way. Continuous support provided through your learning journey. The entire team is quite warm and approachable. Totally recommend if you are looking for a financial game changer.",
             "img": "/testimonial.png"
          },
          {
-            "name": "James",
-            "username": "@james",
-            "body": "“These top-notch products have not only elevated my brand but also significantly increased my revenue. Thanks a lot”",
+            "name": "Shashank",
+            "username": "@Shashank Gupta",
+            "body": " If you want trading with peace of mind and least possible risk, then this is your go to place.I am telling this basis personal experience.I would highly recommend this firm to everyone.",
             "img": "/testimonial.png"
          }
       ],
@@ -111,7 +111,7 @@
    "about": {
       "heading": "Our Company",
       "aboutCompany": "Goolluck Investments is a portfolio advisory firm and stock market training institute. Here, you will learn about real time trading and strategies used by the traders of our institution. Learn directly from trader. Come & learn directly from traders.",
-      "imageUrl": "/corporate.png",
+      "imageUrl": "../public/life/29.jpeg",
       "teamHeading": "Meet Our Team",
       "teamHeadTitle": "Rohit Mongia",
       "desc": "Possesses over 20+ years of Stock Market Investing Experience. 19 Times winner of CNBC Bulls Eye Contest (Best Portfolio Manager Contest in the Country). Derivatives Expert with Zee Business Live News Channel. Equity Expert with Investor India Magzine. Former Trainer at State Street Corp US for Hedge fund Training. Ex-National Head for Stock Broking Arm of Bajaj Capital.",
@@ -215,6 +215,18 @@
    "gallery": {
       "title": "Life at Goolluck",
       "photos": [
+         {
+            "photo": "/life/35.jpg",
+            "description": "Himachal Trip December 2024"
+         },
+         {
+            "photo": "/life/34.jpg",
+            "description": "Himachal Trip December 2024"
+         },
+         {
+            "photo": "/life/33.jpg",
+            "description": "Himachal Trip December 2024"
+         },
          {
             "photo": "/life/31.jpeg",
             "description": "First CSR Activity, 2024"

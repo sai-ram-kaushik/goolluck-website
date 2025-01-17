@@ -5,7 +5,7 @@ const LifeAtGoolluck = ({ gallery }) => {
    return (
       <div className="w-full">
          <div className="flex items-center justify-center w-full">
-            <h2 className="text-4xl font-bold">{title}</h2>
+            <h2 className="text-4xl font-bold">Life at <span>Goolluck</span></h2>
          </div>
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 px-5 lg:px-10 py-5">
             {photos.map((image, idx) => {
